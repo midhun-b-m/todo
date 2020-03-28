@@ -1,1 +1,1 @@
-# todo
+# Basic Todo app using JavaScript
